@@ -2,7 +2,7 @@
  <html>
 	body	{
 
-	background-image: url('Images/image1.JPEG');
+	background-image: url('Images/for_home_screen.png');
 	}
 <script>  
 
