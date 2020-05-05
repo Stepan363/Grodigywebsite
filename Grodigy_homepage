@@ -1,11 +1,12 @@
 <body>
  <html>
-	body	{
+
+<script>  
+body	{
 
 	background-image: url('Images/for_home_screen.png');
 	}
-<script>  
-
+	
 </script>  
 
 </html>
