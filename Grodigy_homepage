@@ -6,6 +6,10 @@ body	{
 
 	background-image: url('Images/for_home_screen.png');
 	}
+<button onclick="window.location.href='Grodigymembership.html'"><font size="6">Membership</font></button>		
+<button onclick="window.location.href='Grodigy.math.com'"><font size="6">What is this?</font></button>	
+<button onclick="window.location.href='grodigy.help.com'"><font size="6">How to play?</font></button>	
+<button onclick="window.location.href='Grodigyhomescreenlogingame.html'"><font size="6">sign iny</font></button>
 	
 </script>  
 
